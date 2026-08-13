@@ -1,5 +1,5 @@
 # Basalt rework attempt
 
-Rework attempt 1: The Vercel deployment check failed, indicating a build or configuration issue preventing successful deployment.
+Rework attempt 3: The fix was rejected because the Vercel deployment for travel-agency-lxxc is failing and the job cannot proceed with red live checks.
 
 _The regenerated patch did not apply cleanly._
